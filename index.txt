@@ -1,0 +1,30 @@
+Q: What is Java?
+A: Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. It is widely used for building enterprise-scale applications.
+
+Q: What are the main features of Java?
+A: Some of the main features of Java include:
+
+    Object-Oriented
+    Platform Independent
+    Simple
+    Secure
+    Portable
+    Robust
+    Multithreaded
+    High Performance
+
+Object-Oriented Programming
+
+Q: What is an object in Java?
+A: An object is an instance of a class. It has a state and behavior. The state is represented by attributes (fields), and behavior is represented by methods.
+
+Q: What is a class in Java?
+A: A class is a blueprint for objects. It defines a datatype by bundling data and methods that work on the data into a single unit.
+
+Q: What are the principles of Object-Oriented Programming (OOP)?
+A: The four main principles of OOP are:
+
+    Encapsulation
+    Inheritance
+    Polymorphism
+    Abstraction
